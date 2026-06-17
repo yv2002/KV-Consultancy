@@ -1,0 +1,45 @@
+.custom-navbar {
+  background: white;
+  padding: 15px 0;
+  box-shadow: 0 2px 20px rgba(0,0,0,0.08);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #0a3d62 !important;
+}
+
+.nav-link {
+  color: #333 !important;
+  font-weight: 500;
+  margin-left: 15px;
+  transition: 0.3s;
+}
+
+.nav-link:hover {
+  color: #0a3d62 !important;
+}
+
+.consultation-btn {
+  background: #f4b400;
+  color: white;
+  border-radius: 30px;
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.consultation-btn:hover {
+  background: #e6a800;
+  color: white;
+}
+.logo-text {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #0a3d62 !important;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}

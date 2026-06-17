@@ -1,0 +1,43 @@
+.about-section {
+  padding: 80px 0;
+  background: #f8f9fa;
+}
+
+.about-section h1 {
+  color: #0a3d62;
+  font-weight: 700;
+}
+
+.about-card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+}
+
+.about-card h3 {
+  color: #0a3d62;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.about-card p {
+  color: #555;
+  line-height: 1.8;
+}
+
+.info-box {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.info-box h2 {
+  color: #f4b400;
+  font-weight: 700;
+}
+
+.info-box p {
+  margin-bottom: 0;
+}

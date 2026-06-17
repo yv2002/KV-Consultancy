@@ -1,0 +1,61 @@
+.services-section {
+  padding: 80px 0;
+  background: #f8f9fa;
+}
+
+.services-section h1 {
+  color: #0a3d62;
+  font-weight: 700;
+}
+
+.service-card {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  height: 100%;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+}
+
+.service-icon {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.service-card h4 {
+  color: #0a3d62;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.service-card p {
+  color: #666;
+  line-height: 1.7;
+}
+
+.cta-box {
+  background: #0a3d62;
+  color: white;
+  padding: 50px;
+  border-radius: 20px;
+  margin-top: 60px;
+}
+
+.consultation-btn {
+  background: #f4b400;
+  color: white;
+  border-radius: 30px;
+  padding: 12px 30px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.consultation-btn:hover {
+  background: #e0a800;
+  color: white;
+}

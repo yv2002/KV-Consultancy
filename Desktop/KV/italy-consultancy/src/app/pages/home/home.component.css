@@ -1,0 +1,13 @@
+.hero {
+  padding: 80px 0;
+}
+
+.hero h1 {
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.stats {
+  background: #f8f9fa;
+  padding: 60px 0;
+}
